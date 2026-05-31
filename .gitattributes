@@ -1,4 +1,0 @@
-*.data filter=lfs diff=lfs merge=lfs -text
-*.unityweb filter=lfs diff=lfs merge=lfs -text
-*.br filter=lfs diff=lfs merge=lfs -text
-C:/Users/J-N-R-L/Downloads/Poly[[:space:]]Bridge[[:space:]]1[[:space:]]WebGL filter=lfs diff=lfs merge=lfs -text
